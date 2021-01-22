@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/32921115/105443502-38635c00-5caf-11eb-8556-8ec47ef6ec9d.png)
 
+## 팀원  
+[daehoon12(강대훈)](https://github.com/daehoon12)  
+[jiminAn(안지민)](https://github.com/jiminAn)  
+
 ## 인공지능 학습용 데이터 활용 아이디어 제목  
 - 대화형 키오스크 : Hello, Kiosk! (음성인식 기술을 사용한 기존의 키오스크 대체 서비스)  
 
